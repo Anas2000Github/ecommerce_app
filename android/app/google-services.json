@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126728011478",
+    "project_id": "e-commerce-814f6",
+    "storage_bucket": "e-commerce-814f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126728011478:android:e35b63e968308066e4d377",
+        "android_client_info": {
+          "package_name": "com.AnasFlutter.ecommerce_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126728011478-7sp6e9je33r5v87338u9sp7j21fq93jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AnasFlutter.ecommerce_App",
+            "certificate_hash": "7650b4f072dcf6448ecaa7468f2411bc8325f689"
+          }
+        },
+        {
+          "client_id": "126728011478-2vtmic1klc9q0663uvdtvvli0fl1o4ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArvan0UeRK79K_Ovk11wyjnU_UE7xb8_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126728011478-2vtmic1klc9q0663uvdtvvli0fl1o4ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
